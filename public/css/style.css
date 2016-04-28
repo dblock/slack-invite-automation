@@ -63,6 +63,10 @@ h2{
 
 }
 
+h2 .subheader{
+  font-size: 14px;
+}
+
 h2 strong{
 	font-weight: 700;
 	font-style: italic;
